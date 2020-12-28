@@ -36,10 +36,24 @@ experience:
     date_start: '2017-11-01'
     date_end: '2019-09-01'
 
-  - title: Researcher
-    company: Center for Complex Systems (CCS)
-    company_url: 'https://jcep.kacst.edu.sa/center-main/ccs'
-    location: Riyadh, Saudi Arabia and Cambridge, MA
-    date_start: '2017-11-01'
-    date_end: '2019-09-01'
+  - title: Co-founder 
+    company: Bona Fide
+    company_url: 'https://bonafideksa.com/wpb/'
+    location: Riyadh, Saudi Arabia 
+    date_start: '2017-10-01'
+    date_end: '2020-12-01'
+
+  - title: Consultant
+    company: PricewaterhouseCoopers (PwC)
+    company_url: 
+    location: Riyadh, Saudi Arabia 
+    date_start: '2017-01-01'
+    date_end: '2017-09-01'
+
+  - title: Undegraduate Research Assitant 
+    company: Alfaisal University 
+    company_url: 
+    location: Riyadh, Saudi Arabia 
+    date_start: '2014-09-01'
+    date_end: '2017-01-01'
 ---
