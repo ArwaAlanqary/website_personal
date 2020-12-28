@@ -13,7 +13,7 @@ organizations:
 - name: Massachusetts Institute of Technology
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
 
 # Interests to show in About widget
 interests:
@@ -57,11 +57,11 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a M.Sc. in Computational Science and Engineering at MIT, advised by Devavrat Shah. Previously I worked at the [Center for Complex Systems (CCS)](https://jcep.kacst.edu.sa/center-main/ccs) at KACST and MIT. I am grateful for the support from KACST graduate scholarship. I earned my B.S. in Mechanical Engineering from Alfaisal University. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
