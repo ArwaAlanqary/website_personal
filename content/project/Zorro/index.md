@@ -12,14 +12,14 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+<!-- - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
+  url: https://twitter.com/georgecushen -->
+url_code: "https://github.com/ArwaAlanqary/website_personal"
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://zorro-mit.github.io/index.html"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
