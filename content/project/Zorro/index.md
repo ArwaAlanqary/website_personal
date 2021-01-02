@@ -46,9 +46,10 @@ Zorro, is a web-based software platform that aims to rectify the aforementioned 
 </div>
 </p>
 
-[dashboard](dashboard.jpg)
+[dashboard](dashboard.png)
 
 ## Resources: 
 [Zorro website](https://zorro-mit.github.io/index.html)
+<br>
 [Chrome Extension](https://chrome.google.com/webstore/detail/zorro-interest-based-ad-b/nohffnloalhahmmfjifahgfjadhjcepi)
 
