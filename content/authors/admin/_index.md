@@ -62,8 +62,8 @@ highlight_name: true
 
 <p>
 <div style="text-align: justify"> 
-I am a M.Sc. in Computational Science and Engineering at MIT, advised by Devavrat Shah. Previously I worked at the [Center for Complex Systems (CCS)(https://jcep.kacst.edu.sa/center-main/ccs) at KACST and MIT. I am grateful for the support from KACST graduate scholarship. I earned my B.S. in Mechanical Engineering from Alfaisal University. 
+I am a M.Sc. in Computational Science and Engineering at MIT, advised by Devavrat Shah. Previously I worked at the [Center for Complex Systems (CCS)](https://jcep.kacst.edu.sa/center-main/ccs) at KACST and MIT. I am grateful for the support from KACST graduate scholarship. I earned my B.S. in Mechanical Engineering from Alfaisal University. 
 </div>
 </p>
 
-Download my (CV)[/static/media/resume.pdf]
+Download my [CV][/static/media/resume.pdf]
