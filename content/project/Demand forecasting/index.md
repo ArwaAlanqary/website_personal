@@ -37,6 +37,8 @@ The problem of noisy and missing data is almost inevitable in any dataset. Accu
 A recent approach towards time series imputation utilizes matrix completion algorithms to recover missing values. This approach converts the time series into a matrix then apply well-established matrix completion algorithms. In this project we proposed an extension to this approach to increase the imputation accuracy in the presence of diverse blocks of consecutive missing values (check the figure below). 
 </div>
 </p>
-![algorithm diag](hello.jpg)
+
+
+![algorithm diag](alg_diag.png)
 
 
