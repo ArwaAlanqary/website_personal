@@ -12,10 +12,10 @@ image:
   focal_point: Smart
 
 links:
-url_code: "https://github.com/ArwaAlanqary/website_personal"
+url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://zorro-mit.github.io/index.html"
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -46,7 +46,7 @@ Zorro, is a web-based software platform that aims to rectify the aforementioned 
 </div>
 </p>
 
-[dashboard](dashboard.png)
+![dashboard](dashboard.png)
 
 ## Resources: 
 [Zorro website](https://zorro-mit.github.io/index.html)
