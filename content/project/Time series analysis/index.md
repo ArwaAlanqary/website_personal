@@ -1,5 +1,5 @@
 ---
-title: Time series analysis using matrix estimation 
+title: Time Series Analysis Using Matrix Estimation 
 summary: An algorithm for forecasting and imputation of time series data. 
 tags:
 - Time Series
