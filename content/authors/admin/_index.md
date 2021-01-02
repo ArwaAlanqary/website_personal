@@ -66,4 +66,7 @@ I am a M.Sc. in Computational Science and Engineering at MIT, advised by Devavra
 </div>
 </p>
 
-Download my [CV][/static/media/resume.pdf]
+
+
+
+Download my [CV](/static/media/resume.pdf)
