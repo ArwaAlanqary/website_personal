@@ -51,7 +51,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: static/media/resume.pdf
+#  link: static/media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -60,8 +60,10 @@ email: ""
 highlight_name: true
 ---
 
-I am a M.Sc. in Computational Science and Engineering at MIT, advised by Devavrat Shah. Previously I worked at the [Center for Complex Systems (CCS)](https://jcep.kacst.edu.sa/center-main/ccs) at KACST and MIT. I am grateful for the support from KACST graduate scholarship. I earned my B.S. in Mechanical Engineering from Alfaisal University. 
+<p>
+<div style="text-align: justify"> 
+I am a M.Sc. in Computational Science and Engineering at MIT, advised by Devavrat Shah. Previously I worked at the [Center for Complex Systems (CCS)(https://jcep.kacst.edu.sa/center-main/ccs) at KACST and MIT. I am grateful for the support from KACST graduate scholarship. I earned my B.S. in Mechanical Engineering from Alfaisal University. 
+</div>
+</p>
 
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Download my (CV)[/static/media/resume.pdf]
